@@ -25,3 +25,5 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/contacts.md %}
