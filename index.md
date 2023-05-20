@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D candidate in the Department of Electrical and Computer Engineering at Purude University.
+I am currently a Ph.D candidate in the Department of Electrical and Computer Engineering at Purude University. As part of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), I was supervised by Prof. [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Human Action Recognition, Human Action Generation, Human Action Prediction
+- **Human Computer Interaction** Augmented Reality (AR) / Virtual Reality (VR), Self-Driving Car
 
 ## News
 
