@@ -14,7 +14,7 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 
 ## News
 
-- **[May. 2023]** I started an internship at [Toyota Research Institute (HRI)](https://www.tri.global).
+- **[May. 2023]** I started an internship at [Toyota Research Institute (TRI)](https://www.tri.global).
 - **[May. 2023]** I will give a talk on Human Action Recognition at [Sungkyunkwan University](https://www.skku.ac.kr).
 - **[Apr. 2023]** I will give a talk on Human Action Recognition at [Keimyung University](https://www.kmu.ac.kr).
 - **[Apr. 2023]** I will give a talk on Human Action Recognition at [Yonsei University](https://www.yonsei.ac.kr).
