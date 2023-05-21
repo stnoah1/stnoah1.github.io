@@ -59,7 +59,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Pose Relation Transformer: Refine Occlusions for Human Pose Estimation</a></div>
     <div class="author"><strong>H. Chi*</strong>, S. Chi*, S. Chan, and K. Ramani (*=Equal contribution)</div>
-    <div class="periodical"><em>IEEE International Conference on Robotics and Automation<strong>(ICRA)</strong>, 2023.</em></div>
+    <div class="periodical"><em>IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/stnoah1/port" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
