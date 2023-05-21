@@ -43,4 +43,4 @@ exclude:
   - README.md
   - LICENSE
   - minimal-light.gemspec
-  - deploy.sh
+  #- deploy.sh
