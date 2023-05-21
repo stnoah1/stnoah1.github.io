@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D candidate in the Department of Electrical and Computer Engineering at Purude University. As part of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), I was supervised by Prof. [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). My research interests lie in the fields of Computer Vision and Machine Learning. More specifically, I am interested in Geometric 3D Deep Learning, Representation for Human Action.
+I am currently a Ph.D candidate in the Department of Electrical and Computer Engineering at Purude University. As part of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), I was supervised by Prof. [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I received my B.S. in Mechanical Enngineering at Yonsei University. My research interests lie in the fields of Computer Vision and Machine Learning. More specifically, I am interested in Geometric 3D Deep Learning, Representation for Human Action.
 
 
 ## Research Interests
