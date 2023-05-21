@@ -4,13 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D candidate in the Department of Electrical and Computer Engineering at Purude University. As part of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), I was supervised by Prof. [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I received my B.S. in Mechanical Enngineering at Yonsei University. My research interests lie in the fields of Computer Vision and Machine Learning. More specifically, I am interested in Geometric 3D Deep Learning, Representation for Human Action.
-
+I am currently a Ph.D candidate in the Department of Electrical and Computer Engineering at [Purude University](http://purdue.edu). As part of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), I was supervised by Prof. [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I received my B.S. in Mechanical Enngineering at [Yonsei University](https://www.yonsei.ac.kr/en_sc/). My research interests are primarily focused on the intersection of Computer Vision and Machine Learning, with a particular emphasis on Representation Learning for human actions, 3D Computer Vision, and their practical applications. I aim to explore the development and integration of advanced algorithms for human action recognition, 3D scene understanding, and object detection, specifically for use in Virtual Reality (VR) / Augmented Reality (AR) devices and Autonomous Vehicles.
 
 ## Research Interests
 
 - **Computer Vision:** Human Action Recognition, Human Action Generation, Human Action Prediction
-- **Human Computer Interaction:** Augmented Reality (AR) / Virtual Reality (VR), Self-Driving Car
+- **Human Computer Interaction:** Augmented Reality (AR) / Virtual Reality (VR), Autonomous Vehicles.
 
 ## News
 
