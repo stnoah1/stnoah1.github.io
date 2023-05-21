@@ -1,4 +1,4 @@
 ## Contact
-**addresses**: 585 purdue mall dr., west lafayette, in, 47906
+**Addresses**: 585 Purdue Mall Dr., West Lafayette, IN, 47906 <br>
 
 **Office**: Mechanical Engieering Building, Room 3171
