@@ -8,7 +8,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/cvpr23_1.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <abbr class="badge">CVPR23</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -31,7 +31,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/cvpr23_2.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <abbr class="badge">CVPR23</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -53,7 +53,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/icra23.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICRA</abbr>
+    <abbr class="badge">ICRA23</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -77,7 +77,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/cvpr22.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <abbr class="badge">CVPR22</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -100,7 +100,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/eccv20.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ECCV</abbr>
+    <abbr class="badge">ECCV20</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
