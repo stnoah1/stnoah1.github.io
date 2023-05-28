@@ -12,12 +12,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">AdamsFormer for Spatial Action Localization in the Future</a></div>
+    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_AdamsFormer_for_Spatial_Action_Localization_in_the_Future_CVPR_2023_paper.pdf">AdamsFormer for Spatial Action Localization in the Future</a></div>
     <div class="author"><strong>H. Chi</strong>, K. Lee, N. Agarwal, K. Ramani, and C. Choi</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_AdamsFormer_for_Spatial_Action_Localization_in_the_Future_CVPR_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Ph_oBtK9_2YJ:scholar.google.com/&output=citation&scisdr=Cm2L344SEJqC5e1kb90:AGlGAw8AAAAAZHNid91RujRj_mHLQuwCTPUvOcI&scisig=AGlGAw8AAAAAZHNid_dGmo5NbRmfHRHnUVdwxF0&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!--<strong><i style="color:#e74d3c">Oral Presentation</i></strong>-->
     </div>
   </div>
@@ -35,12 +35,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2303.16005">Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction</a></div>
+    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Uncovering_the_Missing_Pattern_Unified_Framework_Towards_Trajectory_Imputation_and_CVPR_2023_paper.pdf">Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction</a></div>
     <div class="author">Y. Xu, A. Bazarjani, <strong>H. Chi</strong>, C. Choi, and Y. Fu</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2303.16005" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Uncovering_the_Missing_Pattern_Unified_Framework_Towards_Trajectory_Imputation_and_CVPR_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:RWfRc4zuy0EJ:scholar.google.com/&output=citation&scisdr=Cm2L344SEJqC5e1kyLE:AGlGAw8AAAAAZHNi0LEhiwvG5hF3LrR0wEkEI3M&scisig=AGlGAw8AAAAAZHNi0E_JJR3TaJeeuDWfnGSGMyE&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
