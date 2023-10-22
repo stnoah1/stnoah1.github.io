@@ -13,14 +13,14 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 
 ## News
 
-- **[Oct. 2023]** One paper is accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).
-- **[Sep. 2023]** One paper is accepted to [BMVC 2023 Oral](https://bmvc2023.org).
+- **[Oct. 2023]** One paper was accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).
+- **[Sep. 2023]** One paper was accepted to [BMVC 2023 Oral](https://bmvc2023.org).
 - **[May. 2023]** I started an internship at [Toyota Research Institute (TRI)](https://www.tri.global).
-- **[May. 2023]** I will give a talk on Human Action Recognition at [Sungkyunkwan Univ.](https://www.skku.ac.kr)
-- **[Apr. 2023]** I will give a talk on Human Action Recognition at [Keimyung Univ.](https://www.kmu.ac.kr)
-- **[Apr. 2023]** I will give a talk on Human Action Recognition at [Yonsei Univ.](https://www.yonsei.ac.kr)
-- **[Mar. 2023]** One paper is accepted to [ICRA 2023](https://www.icra2023.org).
-- **[Feb. 2023]** Two papers are accepted to [CVPR 2023](https://cvpr2023.thecvf.com).
+- **[May. 2023]** I gave a talk on Human Action Recognition at [Sungkyunkwan Univ.](https://www.skku.ac.kr)
+- **[Apr. 2023]** I gave a talk on Human Action Recognition at [Keimyung Univ.](https://www.kmu.ac.kr)
+- **[Apr. 2023]** I gave a talk on Human Action Recognition at [Yonsei Univ.](https://www.yonsei.ac.kr)
+- **[Mar. 2023]** One paper was accepted to [ICRA 2023](https://www.icra2023.org).
+- **[Feb. 2023]** Two papers wereaccepted to [CVPR 2023](https://cvpr2023.thecvf.com).
 - **[Jan. 2023]** I started an internship at [Honda Research Institute (HRI)](https://usa.honda-ri.com).
 
 {% include_relative _includes/publications.md %}
