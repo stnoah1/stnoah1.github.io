@@ -106,7 +106,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630171.pdf">A Large‐scale Annotated Mechanical Components Benchmark for Classification and Retrieval Tasks with Deep Neural Networks</a></div>
     <div class="author"><strong>H. Chi*</strong>, S. Kim*, X. Hu, Q. Huang, and K. Ramani (*=Equal contribution)</div>
-    <div class="periodical"><em>European Conference on Computer Vision<strong>(ECCV)</strong>, 2020.</em></div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em></div>
     <div class="links">
       <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630171.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/stnoah1/mcb" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>

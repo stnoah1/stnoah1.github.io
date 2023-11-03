@@ -20,7 +20,7 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 - **[Apr. 2023]** I gave a talk on Human Action Recognition at [Keimyung Univ.](https://www.kmu.ac.kr)
 - **[Apr. 2023]** I gave a talk on Human Action Recognition at [Yonsei Univ.](https://www.yonsei.ac.kr)
 - **[Mar. 2023]** One paper was accepted to [ICRA 2023](https://www.icra2023.org).
-- **[Feb. 2023]** Two papers wereaccepted to [CVPR 2023](https://cvpr2023.thecvf.com).
+- **[Feb. 2023]** Two papers were accepted to [CVPR 2023](https://cvpr2023.thecvf.com).
 - **[Jan. 2023]** I started an internship at [Honda Research Institute (HRI)](https://usa.honda-ri.com).
 
 {% include_relative _includes/publications.md %}
