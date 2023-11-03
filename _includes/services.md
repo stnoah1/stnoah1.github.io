@@ -4,8 +4,8 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>International Conference on Learning Representations (ICLR) 2024</autocolor></li>
+  <li><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2024</autocolor></li>
   <li><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2023</autocolor></li>
-  <li><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023</autocolor></li>
   <li><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2023</autocolor></li>
   <li><autocolor>The British Machine Vision Conference (BMVC) 2020‐2023</autocolor></li>
   <li><autocolor>The IEEE Conference on Artificial Intelligence (CAI) 2023</autocolor></li>
