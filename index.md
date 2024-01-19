@@ -13,6 +13,7 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 
 ## News
 
+- **[Jan. 2024]** I started an AI Researcher position at [Hanwha Vision America Innovation Center](https://hanwhavisionamerica.com).
 - **[Nov. 2023]** I successfully defended my PhD thesis.
 - **[Oct. 2023]** One paper was accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).
 - **[Sep. 2023]** One paper was accepted to [BMVC 2023 Oral](https://bmvc2023.org).
