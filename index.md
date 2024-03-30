@@ -13,8 +13,8 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 
 ## News
 
-- **[Mar. 2024]** I have been seleteed to CVPR24 Doctoral Consortium participant.
-- **[Mar. 2024]** One paper was accepted to Neural Networks.
+- **[Mar. 2024]** I have been seleteed to [CVPR24 Doctoral Consortium](https://cvpr.thecvf.com/Conferences/2024/CallForDoctoralConsortium) participant.
+- **[Mar. 2024]** One paper was accepted to [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 - **[Feb. 2024]** One paper was accepted to [CVPR 2024](https://cvpr.thecvf.com).
 - **[Jan. 2024]** I started an AI Researcher position at Innovation Center of [Hanwha Vision America](https://hanwhavisionamerica.com).
 - **[Nov. 2023]** I successfully defended my PhD thesis.
