@@ -13,7 +13,7 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 
 ## News
 
-- **[Jul. 2024]** Three paper were accepted to [ECCV 2024](https://eccv.ecva.net)
+- **[Jul. 2024]** Three papers were accepted to [ECCV 2024](https://eccv.ecva.net)
 - **[Jul. 2024]** One paper was accepted to [IROS 2024](https://iros2024-abudhabi.org)
 - **[Jun. 2024]** I will join [Apple](https://machinelearning.apple.com) as an AIML resident starting in July.
 - **[Mar. 2024]** I attended [CVPR24 Doctoral Consortium](https://cvpr.thecvf.com/Conferences/2024/CallForDoctoralConsortium).
