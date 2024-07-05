@@ -16,7 +16,7 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 - **[Jul. 2024]** Three papers were accepted to [ECCV 2024](https://eccv.ecva.net)
 - **[Jul. 2024]** One paper was accepted to [IROS 2024](https://iros2024-abudhabi.org)
 - **[Jun. 2024]** I will join [Apple](https://machinelearning.apple.com) as an AIML resident starting in July.
-- **[Mar. 2024]** I attended [CVPR24 Doctoral Consortium](https://cvpr.thecvf.com/Conferences/2024/CallForDoctoralConsortium).
+- **[Jun. 2024]** I attended [CVPR24 Doctoral Consortium](https://cvpr.thecvf.com/Conferences/2024/CallForDoctoralConsortium).
 - **[Mar. 2024]** One paper was accepted to [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 - **[Feb. 2024]** One paper was accepted to [CVPR 2024](https://cvpr.thecvf.com).
 - **[Jan. 2024]** I started an AI Researcher position at Innovation Center of [Hanwha Vision America](https://hanwhavisionamerica.com).
