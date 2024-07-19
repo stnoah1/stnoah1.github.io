@@ -13,23 +13,23 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 
 ## News
 
-- **[Jul. 2024]** I have started an AIML residency at [Apple](https://machinelearning.apple.com).
+- **[Jul. 2024]** Started an AIML residency at [Apple](https://machinelearning.apple.com).
 - **[Jul. 2024]** Three papers were accepted to [ECCV 2024](https://eccv.ecva.net)
 - **[Jul. 2024]** One paper was accepted to [IROS 2024](https://iros2024-abudhabi.org)
-- **[Jun. 2024]** I attended [CVPR24 Doctoral Consortium](https://cvpr.thecvf.com/Conferences/2024/CallForDoctoralConsortium).
+- **[Jun. 2024]** Attended [CVPR24 Doctoral Consortium](https://cvpr.thecvf.com/Conferences/2024/CallForDoctoralConsortium).
 - **[Mar. 2024]** One paper was accepted to [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
 - **[Feb. 2024]** One paper was accepted to [CVPR 2024](https://cvpr.thecvf.com).
-- **[Jan. 2024]** I started an AI Researcher position at Innovation Center of [Hanwha Vision America](https://hanwhavisionamerica.com).
-- **[Nov. 2023]** I successfully defended my PhD thesis.
+- **[Jan. 2024]** Started an AI Researcher position at Innovation Center of [Hanwha Vision America](https://hanwhavisionamerica.com).
+- **[Nov. 2023]** Defended my PhD thesis.
 - **[Oct. 2023]** One paper was accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).
 - **[Sep. 2023]** One paper was accepted to [BMVC 2023 Oral](https://bmvc2023.org).
-- **[May. 2023]** I started an internship at [Toyota Research Institute (TRI)](https://www.tri.global).
-- **[May. 2023]** I gave a talk on Human Action Recognition at [Sungkyunkwan Univ.](https://www.skku.ac.kr)
-- **[Apr. 2023]** I gave a talk on Human Action Recognition at [Keimyung Univ.](https://www.kmu.ac.kr)
-- **[Apr. 2023]** I gave a talk on Human Action Recognition at [Yonsei Univ.](https://www.yonsei.ac.kr)
+- **[May. 2023]** Started an internship at [Toyota Research Institute (TRI)](https://www.tri.global).
+- **[May. 2023]** Gave a talk on Human Action Recognition at [Sungkyunkwan Univ.](https://www.skku.ac.kr)
+- **[Apr. 2023]** Gave a talk on Human Action Recognition at [Keimyung Univ.](https://www.kmu.ac.kr)
+- **[Apr. 2023]** Gave a talk on Human Action Recognition at [Yonsei Univ.](https://www.yonsei.ac.kr)
 - **[Mar. 2023]** One paper was accepted to [ICRA 2023](https://www.icra2023.org).
 - **[Feb. 2023]** Two papers were accepted to [CVPR 2023](https://cvpr2023.thecvf.com).
-- **[Jan. 2023]** I started an internship at [Honda Research Institute (HRI)](https://usa.honda-ri.com).
+- **[Jan. 2023]** Started an internship at [Honda Research Institute (HRI)](https://usa.honda-ri.com).
 
 {% include_relative _includes/publications.md %}
 
