@@ -13,6 +13,7 @@ I am currently a Ph.D candidate in the Department of Electrical and Computer Eng
 
 ## News
 
+- **[Sep. 2024]** Two papers are accepted to [Interspeech25](https://www.interspeech2025.org/home)
 - **[Sep. 2024]** One paper is accepted to [CVPR25](https://cvpr.thecvf.com)
 - **[Sep. 2024]** One paper is accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 - **[Jul. 2024]** Started an AIML residency at [Apple](https://machinelearning.apple.com).
