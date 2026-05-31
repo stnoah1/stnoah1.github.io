@@ -2,40 +2,42 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 
-I am currently a Ph.D candidate in the Department of Electrical and Computer Engineering at [Purdue University](http://purdue.edu). As part of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), I was supervised by Prof. [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I received my B.S. in Mechanical Enngineering at [Yonsei University](https://www.yonsei.ac.kr/en_sc/). My research interests are primarily focused on the intersection of Computer Vision and Machine Learning, with a particular emphasis on Representation Learning for human actions, 3D Computer Vision, and their practical applications. I aim to explore the development and integration of advanced algorithms for human action recognition, 3D scene understanding, and object detection, specifically for use in Virtual Reality (VR) / Augmented Reality (AR) devices and Autonomous Vehicles.
+I am a Research Scientist at [Google](https://ai.google) Android XR — Multimodal AI for Glasses, building **multimodal LLMs that run in real time on wearable hardware**. My work bridges foundation-model research and the hardware that ships to users: from 3D action recognition (**InfoGCN**, 500+ citations) to speech foundation model compression (**DiceHuBERT**) to on-device LLMs for **Ray-Ban Meta glasses** and **Ray-Ban Meta Display**.
+
+Previously, I was a Research Engineer at [Meta Reality Labs](https://about.meta.com/realitylabs/) and an AIML Resident (converted to ML Engineer) at [Apple](https://machinelearning.apple.com) Siri Speech & Understanding. I received my Ph.D. in ECE from [Purdue University](http://purdue.edu), advised by Prof. [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). **17+ papers** at CVPR / ECCV / TPAMI / Interspeech, **1,000+ citations**, and **7+ patents** in multimodal AI, on-device foundation models, and human activity understanding.
 
 ## Research Interests
 
-- **Computer Vision:** Human Action Recognition, Human Action Generation, Human Action Prediction
-- **Human Computer Interaction:** Augmented Reality (AR) / Virtual Reality (VR), Autonomous Vehicles.
+I work on bringing **foundation models out of the datacenter and onto the devices people actually wear** — glasses, phones, and AR/VR headsets. That means tight compute, memory, and power budgets, and a different set of research questions than cloud-scale LLMs: *What does efficient multimodal pretraining look like when the target is a 4-bit model? How do you distill a large speech encoder without losing downstream transfer? What representations compose vision, audio, language, and sensor streams into a single on-device policy?*
 
-## News
+- **On-Device Foundation Models** — multimodal LLMs, speech foundation models, quantization, knowledge distillation, KV-cache & operator-level optimization.
+- **Multimodal Representation Learning** — vision–language–audio–tactile representations, self-supervised learning.
+- **Human Activity Understanding** — action recognition, motion generation, trajectory prediction for AR/VR and robotics.
 
-- **[Sep. 2024]** Two papers are accepted to [Interspeech25](https://www.interspeech2025.org/home)
-- **[Sep. 2024]** One paper is accepted to [CVPR25](https://cvpr.thecvf.com)
-- **[Sep. 2024]** One paper is accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
-- **[Jul. 2024]** Started an AIML residency at [Apple](https://machinelearning.apple.com).
-- **[Jul. 2024]** Three papers were accepted to [ECCV 2024](https://eccv.ecva.net)
-- **[Jul. 2024]** One paper was accepted to [IROS 2024](https://iros2024-abudhabi.org)
-- **[Jun. 2024]** Attended [CVPR24 Doctoral Consortium](https://cvpr.thecvf.com/Conferences/2024/CallForDoctoralConsortium).
-- **[Mar. 2024]** One paper was accepted to [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
-- **[Feb. 2024]** One paper was accepted to [CVPR 2024](https://cvpr.thecvf.com).
-- **[Jan. 2024]** Started an AI Researcher position at Innovation Center of [Hanwha Vision America](https://hanwhavisionamerica.com).
-- **[Nov. 2023]** Defended my PhD thesis.
-- **[Oct. 2023]** One paper was accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).
-- **[Sep. 2023]** One paper was accepted to [BMVC 2023 Oral](https://bmvc2023.org).
-- **[May. 2023]** Started an internship at [Toyota Research Institute (TRI)](https://www.tri.global).
-- **[May. 2023]** Gave a talk on Human Action Recognition at [Sungkyunkwan Univ.](https://www.skku.ac.kr)
-- **[Apr. 2023]** Gave a talk on Human Action Recognition at [Keimyung Univ.](https://www.kmu.ac.kr)
-- **[Apr. 2023]** Gave a talk on Human Action Recognition at [Yonsei Univ.](https://www.yonsei.ac.kr)
-- **[Mar. 2023]** One paper was accepted to [ICRA 2023](https://www.icra2023.org).
-- **[Feb. 2023]** Two papers were accepted to [CVPR 2023](https://cvpr2023.thecvf.com).
-- **[Jan. 2023]** Started an internship at [Honda Research Institute (HRI)](https://usa.honda-ri.com).
+## Education
 
+- **Ph.D. in Electrical and Computer Engineering**, [Purdue University](http://purdue.edu) &nbsp; *Aug 2018 – Dec 2023*
+  <br>Thesis: *Towards Improved Representations on Human Activity Understanding*. Advisor: Prof. [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/).
+- **M.S. in Electrical and Computer Engineering**, [Purdue University](http://purdue.edu) &nbsp; *Aug 2018 – Dec 2022*
+- **B.S. in Mechanical Engineering**, [Yonsei University](https://www.yonsei.ac.kr/en_sc/) &nbsp; *Mar 2011 – Feb 2017*
+
+## Experience
+
+- **Research Scientist**, [Google](https://ai.google) — Android XR (Multimodal AI for Glasses) &nbsp; *Jun 2026 – Present*
+- **Research Engineer**, [Meta Reality Labs](https://about.meta.com/realitylabs/) — Voice AI, Ray-Ban Meta glasses &nbsp; *Sep 2025 – May 2026*
+- **AIML Resident / ML Engineer**, [Apple](https://machinelearning.apple.com) — Siri Speech & Understanding &nbsp; *Jul 2024 – Sep 2025*
+- **ML Research Intern**, [Toyota Research Institute](https://www.tri.global) &nbsp; *May 2023 – Aug 2023*
+- **CV Research Intern**, [Honda Research Institute](https://usa.honda-ri.com) &nbsp; *Jan–May 2023 & May–Aug 2022*
+- **Graduate Research Assistant**, [Purdue University](http://purdue.edu) — Convergence Design Lab &nbsp; *Aug 2018 – Dec 2023*
+
+## Contact
+
+📫 &nbsp; [stnoah1@gmail.com](mailto:stnoah1@gmail.com) — reach out if you're working on on-device multimodal foundation models for wearables. Always happy to chat research or collaborations.
+
+{% comment %}
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
-
-<!-- {% include_relative _includes/contacts.md %} -->
+{% include_relative _includes/contacts.md %}
+{% endcomment %}

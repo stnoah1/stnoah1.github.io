@@ -1,7 +1,7 @@
 # Basic Information 
 title: Hyung-gun Chi
-position: AIML Resident
-affiliation: Apple Inc.
+position: Research Scientist
+affiliation: Google
 email: stnoah1@gmail.com
 
 # Search Engine Optimization (SEO)
@@ -16,7 +16,6 @@ google_scholar: https://scholar.google.com/citations?user=3_l59DIAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/stnoah1
 linkedin: https://linkedin.com/in/hyung-gun/
-twitter: https://twitter.com/HyunggunChi1
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -43,4 +42,7 @@ exclude:
   - README.md
   - LICENSE
   - minimal-light.gemspec
-  #- deploy.sh
+  - vendor
+  - .bundle
+  - deploy.sh
+  - view.sh

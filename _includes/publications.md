@@ -1,7 +1,94 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
+<p style="margin: 20px 0 10px;">Full list available on <a href="https://scholar.google.com/citations?user=3_l59DIAAAAJ&hl=en">Google Scholar</a> (H-index 12, 1,000+ citations).</p>
+
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge">Interspeech25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective</a></div>
+    <div class="author"><strong>H. Chi</strong>, Z. Aldeneh, T. Likhomanenko, O. Rudovic, T. Higuchi, L. Chen, S. Watanabe, A. Abdelaziz</div>
+    <div class="periodical"><em>Interspeech, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge">Interspeech25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Adaptive Knowledge Distillation for Device-Directed Speech Detection</a></div>
+    <div class="author"><strong>H. Chi</strong>, F. Pesce, W. Chang, O. Rudovic, A. Argueta, S. Barun, V. Garg, A. Abdelaziz</div>
+    <div class="periodical"><em>Interspeech, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge">TPAMI24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">InfoGCN++: Learning Representation by Predicting the Future for Online Skeleton-based Action Recognition</a></div>
+    <div class="author"><strong>H. Chi*</strong>, S. Chi*, Q. Huang, K. Ramani (*=Equal contribution)</div>
+    <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge">ECCV24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">M2D2M: Discrete Diffusion Model for the Multi-Motion Generation from the Text</a></div>
+    <div class="author"><strong>H. Chi*</strong>, S. Chi*, H. Ma, N. Agarwal, F. Siddiqui, K. Ramani, K. Lee (*=Equal contribution)</div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge">IROS24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Multi-Modal Representation Learning with Tactile Modality</a></div>
+    <div class="author"><strong>H. Chi*</strong>, J. Barreiros*, J. Mercat, K. Ramani, T. Kollar (*=Equal contribution)</div>
+    <div class="periodical"><em>IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<br>
 
 <li>
 <div class="pub-row">

@@ -8,7 +8,7 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # update CV
 printf "\033[0;32mUpdate CV.pdf...\033[0m\n"
-wget https://github.com/stnoah1/CV/raw/master/CV.pdf -O assets/files/curriculum_vitae.pdf
+# wget https://github.com/stnoah1/CV/raw/master/CV.pdf -O assets/files/curriculum_vitae.pdf
 
 # Commit changes.
 msg="rebuilding site $(date)"
